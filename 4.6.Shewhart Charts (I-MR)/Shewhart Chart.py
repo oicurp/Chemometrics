@@ -2,10 +2,10 @@
 """
 Created on Wed Jun 27 13:01:37 2018
 
-@author: 305011902
+@author: Renhuan
 
 This script intends to plot Shewhart chart (AKA I-MR chart) for a series of data
-the data is from the Iodine Conc. from year 2016 for product Omnipaque
+the data can be, for instance, the assay results for product in a given year.
 
 change log:
 2020 Sept 1: change the code into function style, by defining a shewhart() function, and by adding “if __name__ == "__main__":” statement. The purpose this change is to allow for later import in other script.
@@ -113,6 +113,6 @@ if __name__ == "__main__":
 
     u_spec = 4.0
     l_spec = 0.0
-    product = 'Iodixanol'
+    product = 'Product'
 
     shewhart(data, para,u_spec, l_spec, product)
