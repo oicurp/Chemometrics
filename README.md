@@ -32,6 +32,7 @@ The codes are devloped with the following environments:
 - [4.6.Shewhart Charts (I-MR)](https://github.com/oicurp/Chemometrics/tree/main/4.6.Shewhart%20Charts%20(I-MR))
 - 4.9.Average Run Length (CUSUM) charts
 - 4.10.Zone control charts (J-charts)
+- 5.0.Calibration Methods, Regression and Correlation
 - 8.0.Multivariate Analysis
 - 8.2.Intial Analysis
 - 8.3.Principal Component Analysis
