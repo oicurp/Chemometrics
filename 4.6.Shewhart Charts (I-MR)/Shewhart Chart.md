@@ -9,7 +9,6 @@ This script intends to plot Shewhart chart (AKA I-MR chart) for a series of data
 
 ## Examples
 
-![Example](/example.jpg "Example chart")
-![Example](/example.png?raw=true "Example chart")
+![image](https://user-images.githubusercontent.com/25893030/107037832-9e46fc00-67f6-11eb-966d-e1588ac83a10.png)
 
 ## References
