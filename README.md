@@ -21,8 +21,8 @@ One might find the codes useful in the following application pharmaceutical manf
 
 ## Environments
 The codes are devloped with the following environments:
-1. IDE: VS Code 1.52.1
-2. Interpreter: Python 3.6.5 from Anaconda 4.8.4
+1. IDE: [VS Code](https://code.visualstudio.com/) 1.52.1. 
+2. Interpreter: Python 3.6.5 from [Anaconda](https://www.anaconda.com/) 4.8.4
 
 ## Table of Contents
 - 0.0.Data
