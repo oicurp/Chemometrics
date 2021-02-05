@@ -7,4 +7,7 @@ This script intends to plot Shewhart chart (AKA I-MR chart) for a series of data
 
 ## Script: How to Use
 
+## Examples
+![Philadelphia's Magic Gardens. This place was so cool!](/example.jpg "Example chart")
+
 ## References
