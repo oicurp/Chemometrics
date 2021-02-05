@@ -1,7 +1,7 @@
 # Chemometrics for Analytical Chemistry Using Python
 
 ---
-**Note: this might seem a lofty plan, as there're a lot to do. Currently only codes for I-MR chart is developped and stored under 4.6.Shewhart Charts.**
+**Note: this might seem a lofty plan, as there're a lot to do. Currently only codes for I-MR chart are developped and stored under 4.6.Shewhart Charts.**
 
 ## Introduction
 This repository contains Python codes for people who're interested in learning Chemometrics using Python as the tool
