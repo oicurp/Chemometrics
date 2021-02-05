@@ -14,6 +14,10 @@ One might find the codes useful in the following application pharmaceutical manf
 3. Partial least squares regression for FT-NIR.
 4. etc
 
+## Intended Audiences
+1. People who want learn chemometrics and Python programming.
+2. People who work in pharmacetucal quality function, and who need to deal with statistical assessment without using commercial statistical software.
+
 
 ## Environments
 The codes are devloped with the following environments:
@@ -41,5 +45,11 @@ The codes are devloped with the following environments:
 - 8.11.Partial Least-squares Regression
 - 8.12.Natual Computation Method
 
+## How to Use
+
+to be continued...
+
 ## References: 
 1. Statistics and Chemometrics for Analytical Chemistry 6th edition by J Miller. [Link](https://www.amazon.com/Statistics-Chemometrics-Analytical-Chemistry-6th/dp/0273730428)
+2. European Pharmacopoeia 10.4: Process Analytical Technology (4.5.25)
+3. European Pharmacopoeia 10.4: Multivariate Statistical Process Control (4.5.2)
