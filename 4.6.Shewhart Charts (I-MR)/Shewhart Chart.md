@@ -8,6 +8,6 @@ This script intends to plot Shewhart chart (AKA I-MR chart) for a series of data
 ## Script: How to Use
 
 ## Examples
-![Philadelphia's Magic Gardens. This place was so cool!](/example.jpg "Example chart")
+![Example](https://github.com/oicurp/Chemometrics/blob/main/4.6.Shewhart%20Charts%20(I-MR)/example.jpg "Example chart")
 
 ## References
