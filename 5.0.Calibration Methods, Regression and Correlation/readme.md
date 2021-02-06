@@ -1,7 +1,17 @@
-# 5.0.Calibration Methods, Regression and Correlation
+# Linear regression
+---
 ## Introduction
+
+## Applications
+
+## Definition
+
+1. Correlation Coefficient (r): 
+2. 
 
 ## Script: How to Use
 
-## Example
+## References
+- a
+- b
 
