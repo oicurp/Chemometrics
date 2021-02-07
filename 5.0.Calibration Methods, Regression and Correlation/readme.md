@@ -4,10 +4,12 @@
 
 ## Applications
 
+Method validation - Linearity Assessment
+
 ## Definition
 
 1. Correlation Coefficient (r): 
-2. 
+2. Residual Plot
 
 ## Script: How to Use
 
