@@ -28,7 +28,7 @@ The codes are devloped with the following environments:
 - 0.0.Data
 - [2.1.Mean and Std Deviation](https://github.com/oicurp/Chemometrics/tree/main/2.1.Mean%20and%20Std%20Deviation)
 - 3.0.Significance Tests
-- 4.0.Quality Control of Analytical Measurements
+- [4.0.Quality Control of Analytical Measurements](https://github.com/oicurp/Chemometrics/tree/main/4.0.Quality%20Control%20of%20Analytical%20Measurements)
 - [4.6.Shewhart Charts (I-MR)](https://github.com/oicurp/Chemometrics/tree/main/4.6.Shewhart%20Charts%20(I-MR))
 - [4.9.Average Run Length (CUSUM) charts](https://github.com/oicurp/Chemometrics/tree/main/4.9.Average%20Run%20Length%20(CUSUM)%20charts)
 - 4.10.Zone control charts (J-charts)
