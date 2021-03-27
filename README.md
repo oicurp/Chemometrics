@@ -41,7 +41,7 @@ The codes are devloped with the following environments:
 - 8.6.K-nearest Neighbour Method
 - 8.7.Disjoint Class Modelling
 - 8.8.Regression Methos
-- 8.9.Multiple Linear Regression
+- [8.9.Multiple Linear Regression](https://github.com/oicurp/Chemometrics/tree/main/8.9.Multiple%20Linear%20Regression)
 - 8.10.Principal Component Regression
 - [8.11.Partial Least-squares Regression](https://github.com/oicurp/Chemometrics/tree/main/8.11.Partial%20Least-squares%20Regression)
 - 8.12.Natual Computation Method
